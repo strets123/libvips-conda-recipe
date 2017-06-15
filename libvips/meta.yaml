@@ -18,6 +18,7 @@ build:
 requirements:
   build:
     #- openslide-python 
+    - gcc
     - python 3.5.*
     - glib 2.43.0
     - libxml2
