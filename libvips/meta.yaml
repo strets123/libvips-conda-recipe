@@ -33,7 +33,7 @@ requirements:
  #   - fftw
     - cfitsio
     - libwebp
-    - gobject-introspection 1.51.3
+    - gobject-introspection 
     - pygobject
     - pango
     - harfbuzz 1.0.6
