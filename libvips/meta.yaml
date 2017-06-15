@@ -40,6 +40,8 @@ requirements:
     - libffi
     - libwebp
     - bzip2 1.0.6 4
+    - pkg-config
+    - expat
     
   run:
     #- openslide-python
