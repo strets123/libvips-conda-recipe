@@ -1,6 +1,6 @@
 FROM continuumio/miniconda3:latest
 
-RUN conda install conda-build==2.0.11
+RUN conda install conda-build
 COPY .condarc /root/.condarc
 RUN conda config --add channels cdeepakroy
 COPY . /recipe
