@@ -1,6 +1,7 @@
 always_yes: true
 channels:
   - cdeepakroy
+  - pkgw
   - https://s3-eu-west-1.amazonaws.com/conda.zegami.com/
   - defaults
   - https://conda.anaconda.org/zegami
