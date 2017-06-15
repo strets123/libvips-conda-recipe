@@ -1,0 +1,7 @@
+always_yes: true
+channels:
+  - cdeepakroy
+  - https://s3-eu-west-1.amazonaws.com/conda.zegami.com/
+  - defaults
+  - https://conda.anaconda.org/zegami
+  - https://conda.anaconda.org/conda-forge
